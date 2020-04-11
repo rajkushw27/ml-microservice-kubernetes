@@ -1,4 +1,4 @@
-## The Makefile includes instructions on environment setup and lint tests
+# The Makefile includes instructions on environment setup and lint tests
 # Create and activate a virtual environment
 # Install dependencies in requirements.txt
 # Dockerfile should pass hadolint
