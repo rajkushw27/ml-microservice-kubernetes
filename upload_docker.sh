@@ -11,8 +11,8 @@ dockerpath=rajkushw/aws-images
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker tag a3f7475893ea rajkushw/aws-images:predict_udacity
+docker tag a3f7475893ea rajkushw/aws-images:rajkuberhub
 
 # Step 3:
 # Push image to a docker repository
-docker push rajkushw/aws-images:predict_udacity
+docker push rajkushw/aws-images:rajkuberhub
