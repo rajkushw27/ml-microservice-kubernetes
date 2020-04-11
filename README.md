@@ -1,5 +1,7 @@
 <include a CircleCI status badge, here>
 
+[![rajkushw27](https://circleci.com/gh/rajkushw27/<PROJECT_NAME>.svg?style=svg)](https://app.circleci.com/pipelines/github/rajkushw27/ml-microservice-kubernetes/6/workflows/2e771799-b5d7-47b9-84c3-1b14ce556b36)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
